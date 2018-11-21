@@ -1,0 +1,14 @@
+GET http://bbs.dult.cn/forum.php HTTP/1.1
+Host: bbs.dult.cn
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+CLIENT_IP: 49.85.18.111
+REMOTE_ADDR: 49.85.18.111
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:55.0) Gecko/20100101 Firefox/55.0
+VIA: 49.85.18.111
+X-Forwarded-For: 49.85.18.111
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: 8f3X_2132_lastact=1514696608%09misc.php%09patch; 8f3X_2132_noticeTitle=1; 8f3X_2132_sid=ex9a9F; 8f3X_2132_home_diymode=1; 8f3X_2132_lip=49.85.18.101%2C1514696603; 8f3X_2132_seccodeSBomer50=168fwQUykr%2BOLsOic0gbxP71oKghLT1CquOFzPABT%2BXnGQRFmtMXTiyDlcZWH1ltmiPu4qjV%2B1NpNpZTtJ0; 8f3X_2132_webtctzcount1=0; 8f3X_2132_nofavfid=1; 8f3X_2132_auth=144dii2Ay6EjuRrsY%2FoxumaaCHM66U2%2BjTbp%2Bbik%2BEss2uX5ofSwF4Q%2By2mvuJIz%2Bbm2DGk73c9T9777K9pCJzba; 8f3X_2132_myrepeat_rr=R0; 8f3X_2132_lastcheckfeed=1390%7C1514696528; 8f3X_2132_ulastactivity=89aa%2BVgCLs%2F%2BraXeuyEFNPw10HSGe2JyuEGldZz24mt1JMYbRNON; 8f3X_2132_sendmail=1; 8f3X_2132_lastvisit=1514692921; 8f3X_2132_saltkey=aR5po080
+

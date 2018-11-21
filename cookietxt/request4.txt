@@ -1,0 +1,14 @@
+GET http://www.84922.com/forum.php HTTP/1.1
+Host: www.84922.com
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+CLIENT_IP: 112.112.158.7
+REMOTE_ADDR: 112.112.158.7
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:55.0) Gecko/20100101 Firefox/55.0
+VIA: 112.112.158.7
+X-Forwarded-For: 112.112.158.7
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: K0ve_2132_connect_is_bind=1; K0ve_2132_lastact=1528684639%09plugin.php%09; tiao=tiao; CNZZDATA1256339276=1289809757-1528681373-%7C1528681373; K0ve_2132_sid=SKzZwC; K0ve_2132_onlineusernum=17; K0ve_2132_nofavfid=1; K0ve_2132_security_cookiereport=7a0cVXVEAwI%2B4bSc%2BkOCrvLqz%2BlEimoCf4xPpJXNLDPYxTTe7IK6; K0ve_2132_lip=112.112.158.7%2C1528684580; K0ve_2132_checkfollow=1; K0ve_2132_lastcheckfeed=23406%7C1528684625; K0ve_2132_auth=a3dbslo7ZxYzUZkd5sxpy7KBg9ez6FeKBngmJKOGP5akqY5KJXC%2FSHJB12XudismiMYAEP46FTAXKzTXr62BEBkndw; K0ve_2132_ulastactivity=5a33dxKlxX08Jy2IoxaED0BHfUybPJtSx7CA%2BdFFrkomPIOnYOWL; K0ve_2132_pc_size_c=0; UM_distinctid=163ecb013e34d3-0c92fccfed4a7f-4c322c7f-144000-163ecb013e4472; K0ve_2132_lastvisit=1528681010; K0ve_2132_saltkey=BS4j456R
+

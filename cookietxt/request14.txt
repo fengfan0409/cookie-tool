@@ -1,0 +1,14 @@
+GET http://www.52waigua.net/ HTTP/1.1
+Host: www.52waigua.net
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+CLIENT_IP: 218.205.57.16
+REMOTE_ADDR: 218.205.57.16
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:55.0) Gecko/20100101 Firefox/55.0
+VIA: 218.205.57.16
+X-Forwarded-For: 218.205.57.16
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: 1P4y_2132_mobile=no; 1P4y_2132_lastact=1529023228%09member.php%09logging; 1P4y_2132_ulastactivity=397dLHW1NLdu4AjhcrBQ5qtXO4%2F4HPio4ysk%2BYaoeGK%2Bbr2LKHbA; 1P4y_2132_sid=oMWa80; 1P4y_2132_auth=fe30EBtCvIlfGz%2BeKm%2BVzAE4VfndCYJp%2BoFPgfLIqN5v5K8tuvoqWP9QwFCtDlHUvht%2FgRfTqJRTznQ3cvlP%2F%2BBR; 1P4y_2132_lastcheckfeed=6367%7C1529023228; 1P4y_2132_checkfollow=1; 1P4y_2132_lip=218.205.57.16%2C1529023221; 1P4y_2132_security_cookiereport=f93bvoCBBqDxUtcK%2BunUJLke3STS4s%2FCY%2Bq281AUJqCgsEXr48be; 1P4y_2132_saltkey=eELFbeSS; 1P4y_2132_lastvisit=1529019628; _d_id=c6706b597bc887b916508ab993e6c8
+

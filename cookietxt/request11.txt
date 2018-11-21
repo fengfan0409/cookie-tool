@@ -1,0 +1,14 @@
+GET http://www.ccievide.com/ HTTP/1.1
+Host: www.ccievide.com
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+CLIENT_IP: 64.222.66.112
+REMOTE_ADDR: 64.222.66.112
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:55.0) Gecko/20100101 Firefox/55.0
+VIA: 64.222.66.112
+X-Forwarded-For: 64.222.66.112
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: UM_distinctid=1648ec93c88297-0c586b14750366-4c322c7f-e1000-1648ec93c891b6; KSP7_2132_mobile=no; KSP7_2132_lastact=1529023159%09member.php%09logging; KSP7_2132_ulastactivity=092bgDApQ%2FjS%2BLYjXka80eiBTeuPN6WRAiQapGwM0PiSM09%2BQEql; KSP7_2132_sid=pwuFsd; KSP7_2132_auth=2301JuaqoNr9xlOqesZ%2BbXcPcKhGmuLhcJGq9IL5Cqd7r0HIwQswLtMz0FDcBFF2m2UWZ5nZdArC8sfQn1hLS3zHFg; KSP7_2132_lastcheckfeed=26204%7C1529023159; KSP7_2132_checkfollow=1; KSP7_2132_lip=64.222.66.112%2C1529023156; KSP7_2132_myrepeat_rr=R0; KSP7_2132_saltkey=k1uEByHh; KSP7_2132_lastvisit=1529019557; KSP7_2132_pc_size_c=0
+

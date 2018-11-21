@@ -1,0 +1,3 @@
+url=http://www.feixueteam.net/ ;cookieArray=[ A1Z3_2132_mobile=no, A1Z3_2132_lastact=1529022826%09member.php%09logging, A1Z3_2132_ulastactivity=9428zGLsZHN6nlP6UfjA994SnV4Y2C8dTqQ%2FlfGXmtP62qecYXiE, A1Z3_2132_sid=dxYYEc, A1Z3_2132_auth=87a4BvCT9hznXDPM2Gq7CEH6V4Brah1o6N2izU5DnTL9Ucwhw7OI55y30CthJLkINZfPsiJJysref6Lhy6ryaVA, A1Z3_2132_lastcheckfeed=543%7C1529022826, A1Z3_2132_checkfollow=1, A1Z3_2132_lip=118.186.200.82%2C1529022824, A1Z3_2132_saltkey=SHXQ5Xxh, A1Z3_2132_lastvisit=1529019225, _d_id=495f7af50c39c591b1838ab993e647
+
+]

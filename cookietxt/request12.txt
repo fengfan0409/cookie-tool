@@ -1,0 +1,14 @@
+GET http://433game.com/ HTTP/1.1
+Host: 433game.com
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+CLIENT_IP: 63.129.115.65
+REMOTE_ADDR: 63.129.115.65
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:55.0) Gecko/20100101 Firefox/55.0
+VIA: 63.129.115.65
+X-Forwarded-For: 63.129.115.65
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: Kg9m_2132_lastact=1522632534%09like.php%09; Kg9m_2132_connect_is_bind=0; CNZZDATA1253989290=693334257-1522632131-http%253A%252F%252F433game.com%252F%7C1522632131; Kg9m_2132_sendmail=1; Kg9m_2132_sid=ItTt0l; _dx_captcha_vid=E9BB4D5F75AB4A998F339B27DD57160930AF75D3D8A553A71E8DC9FDBBCF04E7AD5B21390D98917AE0437E09BC467BD6B62EB4275501AC41DBF4EF5378E0B7D58D512E0B36AD420A68711B74D27D86FE; Kg9m_2132_security_cookiereport=1f2aX7KyulVH%2FtUqoXppjWVHGbocQI34e8IjxHnX1g8D%2BlWhlNgj; Kg9m_2132_lastcheckfeed=2524%7C1522632442; Kg9m_2132_auth=16faauZ9kyzETPZ7DJR95Sg86MtykgrJgL%2B7UbIhi9HyVZXb40fWtGbpST0S8PfsTe%2Fi1G5iaM3I5C8n4RUoJvTl; _dx_uzZo5y=2fcb8d0a1777250fb6ecff54d55b8ed6624ba3b417fa6c19c388b7a953c127fa3e0a3c0f; Kg9m_2132__refer=%252Fhome.php%253Fmod%253Dspacecp%2526ac%253Dprofile%2526op%253Dpassword; Kg9m_2132_seccode=20.34d3671a2335cf09f8; Kg9m_2132_secqaa=19.d9866cba653dca617b; Kg9m_2132_smile=1D1; Kg9m_2132_viewid=tid_8573; Kg9m_2132_st_p=2524%7C1522632270%7Cd0a135aaa14adbd987f2d4fcf5ee00ae; Kg9m_2132_visitedfid=53; Kg9m_2132_nofavfid=1; Kg9m_2132_lip=63.129.115.65%2C1522632118; Kg9m_2132_ulastactivity=6d96ANhWtQKTpe1uPHhzamhR9whwuT2mfJ5MAXzwQV0eLXh5CNzQ; Kg9m_2132_pc_size_c=0; UM_distinctid=16283f28e1e149-0758f0b0a1af1c-4c322c7f-144000-16283f28e1f513; Kg9m_2132_lastvisit=1522628504; Kg9m_2132_saltkey=Gm37nDzZ; safedog-flow-item=(null)
+
